@@ -1,7 +1,6 @@
 package main
 
 import (
-	"abs"
 	"context"
 	"flag"
 	"fmt"
@@ -9,6 +8,7 @@ import (
 
 	"github.com/algorand/go-algorand-sdk/client/v2/algod"
 	"github.com/algorand/go-algorand-sdk/types"
+	"github.com/dragmz/abs"
 	"github.com/pkg/errors"
 )
 
