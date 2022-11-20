@@ -1,4 +1,4 @@
-module abs
+module github.com/dragmz/abs
 
 go 1.19
 
